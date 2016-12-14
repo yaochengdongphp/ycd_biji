@@ -19,3 +19,4 @@ class car{
 	}
 }
 $car=car::getInstance();
+
